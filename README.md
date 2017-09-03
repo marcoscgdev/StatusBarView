@@ -2,6 +2,7 @@
 Two simple Android views with the size of the device's Status Bar and Navigation Bar.
 
 <img src="https://raw.githubusercontent.com/marcoscgdev/StatusBarView/master/device-2017-09-03-180319.png" width="350">
+<img src="https://raw.githubusercontent.com/marcoscgdev/StatusBarView/master/photo_2017-09-03_18-10-17.jpg" width="350">
 
 ## Usage:
 
